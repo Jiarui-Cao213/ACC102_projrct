@@ -6,7 +6,7 @@
 
 ## Product Link & Demo Video
 
-- **GitHub Repository**:
+- **GitHub Repository**:https://github.com/Jiarui-Cao213/ACC102_projrct
 - **Demo Video**:
 
 ---
@@ -126,8 +126,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 10. AI Disclosure
 
-| Tool | Version | Access Date | Purpose |
-|------|---------|-------------|---------|
+| Tool | Access Date | Purpose |
+|------|-------------|---------|
 | Deepseek | 19 April 2026 | Code debugging, analysis structuring, report drafting |
 
 *All analytical logic, data interpretation, and final conclusions are my own work.*
