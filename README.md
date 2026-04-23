@@ -7,7 +7,7 @@
 ## Product Link & Demo Video
 
 - **GitHub Repository**:https://github.com/Jiarui-Cao213/ACC102_projrct
-- **Demo Video**:
+- **Demo Video**:https://b23.tv/OxswNvE
 
 ---
 
